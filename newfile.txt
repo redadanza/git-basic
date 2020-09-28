@@ -1,3 +1,8 @@
 Sample new file
 update this file
 update file using git hub
+
+Difference between add, commit, push
+- Add: This command adds a file to the staging are
+- Commit: This command records or snapshots the file permanently in the version history.
+- Push: This command sends the committed changes of master branch to your remote repository
